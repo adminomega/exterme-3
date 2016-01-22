@@ -238,20 +238,9 @@ function create_config( )
     sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Xamarin Anti Spam Bot v1.2
+    about_text = [[ Anti Spam Bot v1.2
     
-  📢 Channel : @XamarinCh
-  👤 Admin : @AmirDark
-  
-  🙏 Special Thanks :
-  
-        @mehrab_wj
-        @PokerFace_Dev
-        @MR_Flat
-        @ShahaWwB
-        @Sinaw1
-  
-  Checkout yon.ir/XamarinTG
+
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -438,12 +427,6 @@ This command will send text to [group_id]
 
 📢 ارتباط با پشتیبانی ربات
 !feedback [متن پیام]
-
-🔍 دریافت لینک گروه پشتیبانی
-!tosupport
-
-💬 توضيحات ضد اسپم
-!xamarin
 
 💬 راهنمای ربات (همین متن)
 !help
